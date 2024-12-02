@@ -1,0 +1,23 @@
+train: dataset/train2019
+val: dataset/val2019
+test: dataset/test2019
+
+# Classes
+names:
+  0: alcohol
+  1: candy
+  2: canned_food
+  3: chocolate
+  4: dessert
+  5: dried_food
+  6: dried_fruit
+  7: drink
+  8: gum
+  9: instant_drink
+  10: instant_noodles
+  11: milk
+  12: personal_hygiene
+  13: puffed_food
+  14: seasoner
+  15: stationery
+  16: tissue
